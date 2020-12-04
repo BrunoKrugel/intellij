@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarci.wdf.sap.corp:8443/sonar" />
+          <token>df9cdf9fdf99df9cdf9ddf9ddf93df99dfcbdfcfdf9bdf93dfcedfcbdfcbdfc9df9edf9adf93dfcfdf98df99df9fdf93dfcedfc8dfc8dfc8dfccdf98df9ddf9edf99df98df99dfc9df99df9cdf9fdfce</token>
+          <option name="name" value="Sonarlint" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
